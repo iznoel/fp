@@ -1,4 +1,4 @@
-fp - fuzzy picker
+FP - fuzzy picker
 =================
 
 written purely in bash, for bash. fp is Currently a standalone proof of
@@ -51,3 +51,7 @@ capabilities with no overhead for other bash scripts.
 - Terminal position awareness (for usage from readline binds, etc)
 - Switch from xterm esc sequences to tput
 - Improve sorting
+
+## Maybe
+
+- interactive preview of glob/extglob/regex patterns
